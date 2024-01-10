@@ -11,6 +11,9 @@
    text-align: center;
    font-family: 'Bubblegum Sans', sans-serif;
 }
+.heading::selection{
+    color: red;
+}
 .container{
     height: 100vh;
     width: 100%;
